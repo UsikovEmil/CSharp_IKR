@@ -1,0 +1,15 @@
+E:\УЧЁБА\GeekBrains\I четверть\08 Итоги блока. Выбор специализации\IPR-for-CSharp\IPR-Zadanie\obj\Debug\net7.0\IPR-Zadanie.csproj.AssemblyReference.cache
+E:\УЧЁБА\GeekBrains\I четверть\08 Итоги блока. Выбор специализации\IPR-for-CSharp\IPR-Zadanie\obj\Debug\net7.0\IPR-Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+E:\УЧЁБА\GeekBrains\I четверть\08 Итоги блока. Выбор специализации\IPR-for-CSharp\IPR-Zadanie\obj\Debug\net7.0\IPR-Zadanie.AssemblyInfoInputs.cache
+E:\УЧЁБА\GeekBrains\I четверть\08 Итоги блока. Выбор специализации\IPR-for-CSharp\IPR-Zadanie\obj\Debug\net7.0\IPR-Zadanie.AssemblyInfo.cs
+E:\УЧЁБА\GeekBrains\I четверть\08 Итоги блока. Выбор специализации\IPR-for-CSharp\IPR-Zadanie\obj\Debug\net7.0\IPR-Zadanie.csproj.CoreCompileInputs.cache
+E:\УЧЁБА\GeekBrains\I четверть\08 Итоги блока. Выбор специализации\IPR-for-CSharp\IPR-Zadanie\bin\Debug\net7.0\IPR-Zadanie.exe
+E:\УЧЁБА\GeekBrains\I четверть\08 Итоги блока. Выбор специализации\IPR-for-CSharp\IPR-Zadanie\bin\Debug\net7.0\IPR-Zadanie.deps.json
+E:\УЧЁБА\GeekBrains\I четверть\08 Итоги блока. Выбор специализации\IPR-for-CSharp\IPR-Zadanie\bin\Debug\net7.0\IPR-Zadanie.runtimeconfig.json
+E:\УЧЁБА\GeekBrains\I четверть\08 Итоги блока. Выбор специализации\IPR-for-CSharp\IPR-Zadanie\bin\Debug\net7.0\IPR-Zadanie.dll
+E:\УЧЁБА\GeekBrains\I четверть\08 Итоги блока. Выбор специализации\IPR-for-CSharp\IPR-Zadanie\bin\Debug\net7.0\IPR-Zadanie.pdb
+E:\УЧЁБА\GeekBrains\I четверть\08 Итоги блока. Выбор специализации\IPR-for-CSharp\IPR-Zadanie\obj\Debug\net7.0\IPR-Zadanie.dll
+E:\УЧЁБА\GeekBrains\I четверть\08 Итоги блока. Выбор специализации\IPR-for-CSharp\IPR-Zadanie\obj\Debug\net7.0\refint\IPR-Zadanie.dll
+E:\УЧЁБА\GeekBrains\I четверть\08 Итоги блока. Выбор специализации\IPR-for-CSharp\IPR-Zadanie\obj\Debug\net7.0\IPR-Zadanie.pdb
+E:\УЧЁБА\GeekBrains\I четверть\08 Итоги блока. Выбор специализации\IPR-for-CSharp\IPR-Zadanie\obj\Debug\net7.0\IPR-Zadanie.genruntimeconfig.cache
+E:\УЧЁБА\GeekBrains\I четверть\08 Итоги блока. Выбор специализации\IPR-for-CSharp\IPR-Zadanie\obj\Debug\net7.0\ref\IPR-Zadanie.dll
