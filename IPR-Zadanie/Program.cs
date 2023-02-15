@@ -12,16 +12,29 @@ Console.Clear();
 
 string[] array = { "hello", "2", "world", ":-)" };
 
-Console.WriteLine("Hello, World!");
 void massiv(string[] m)
 {
+    int count = 0;
+    int j = 0;
     for (int i = 0; i < array.Length; i++)
     {
-        Console.WriteLine(i);
+        if (array[i].Length <= 3) count++;
     }
+
+    string[] marray = new string[count];
+
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 3)
+        {
+            marray[j] = array[i];
+            j++;
+        }
+
+    }
+    Console.WriteLine(string.Join(", ", marray));
+
 
 }
 
 massiv(array);
-Console.WriteLine(string.Join(", ", array));
-Console.WriteLine(array.Length);
